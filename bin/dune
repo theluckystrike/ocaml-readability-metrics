@@ -1,0 +1,5 @@
+(executable
+ (name main)
+ (public_name readability)
+ (package readability_metrics)
+ (libraries readability_metrics))

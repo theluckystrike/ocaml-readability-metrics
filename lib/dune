@@ -1,0 +1,3 @@
+(library
+ (name readability_metrics)
+ (public_name readability_metrics))
